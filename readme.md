@@ -1,4 +1,4 @@
-#🌞 Sun System 🌞
+# 🌞 Sun System 🌞
 ![sun-system](screen.png)
 ---
 ### Stack ⚙
